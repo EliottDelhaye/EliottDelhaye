@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on a Microsoft Teams extension.
+🌱 I’m currently learning React JS.
+📫 How to reach me: eliott.delhaye@epita.fr
 <!--
 **EliottDelhaye/EliottDelhaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
