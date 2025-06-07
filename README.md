@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React JS.
 
-📫 How to reach me: [eliott.delhaye@epita.fr](mailto:eliott.delhaye@epita.fr)
+📫 How to reach me: [contact@eliottdelhaye.com](mailto:contact@eliottdelhaye.com)
 
 <!--
 **EliottDelhaye/EliottDelhaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
