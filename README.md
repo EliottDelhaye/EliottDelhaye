@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a Microsoft Teams extension.
-
-🌱 I’m currently learning React JS.
-
 📫 How to reach me: [contact@eliottdelhaye.com](mailto:contact@eliottdelhaye.com)
 
 <!--
